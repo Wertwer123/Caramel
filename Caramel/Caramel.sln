@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caramel", "Caramel\Caramel.vcxproj", "{68ADF9B8-F436-49D6-8BF2-D2BD2F143FB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{CE1A3999-8495-42FD-ADE6-494B5867A412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68ADF9B8-F436-49D6-8BF2-D2BD2F143FB8}.Debug|x64.ActiveCfg = Debug|x64
+		{68ADF9B8-F436-49D6-8BF2-D2BD2F143FB8}.Debug|x64.Build.0 = Debug|x64
+		{68ADF9B8-F436-49D6-8BF2-D2BD2F143FB8}.Release|x64.ActiveCfg = Release|x64
+		{68ADF9B8-F436-49D6-8BF2-D2BD2F143FB8}.Release|x64.Build.0 = Release|x64
+		{CE1A3999-8495-42FD-ADE6-494B5867A412}.Debug|x64.ActiveCfg = Debug|x64
+		{CE1A3999-8495-42FD-ADE6-494B5867A412}.Debug|x64.Build.0 = Debug|x64
+		{CE1A3999-8495-42FD-ADE6-494B5867A412}.Release|x64.ActiveCfg = Release|x64
+		{CE1A3999-8495-42FD-ADE6-494B5867A412}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD51C9E-E729-4F3D-8479-84C08E11A6D4}
+	EndGlobalSection
+EndGlobal
